@@ -5,5 +5,5 @@
 # 2) Pricing Section:- Since the app is not free, it has 3 plans to suit the needs of the user. The user can choose any plan among the 3 for their pet dog.
 # 3) Download Section:- The third and the last section contains the link for downloading the app. The application can be downloaded from Play Store and App Store.
 # In contrast to the above features, the website also contains the Testimonial Section, where some past experiences from the dogs have been added.
-# Link to the website:- 
+
 
